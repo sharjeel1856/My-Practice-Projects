@@ -1,4 +1,4 @@
-# sqflite_2
+# hive_notepad_app
 
 A new Flutter project.
 
